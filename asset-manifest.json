@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prtsc-ss/static/css/main.e6c13ad2.css",
+    "main.js": "/prtsc-ss/static/js/main.547ccdb5.js",
+    "static/js/239.aa8ac803.chunk.js": "/prtsc-ss/static/js/239.aa8ac803.chunk.js",
+    "static/js/213.093f9e74.chunk.js": "/prtsc-ss/static/js/213.093f9e74.chunk.js",
+    "static/js/732.4cd591dc.chunk.js": "/prtsc-ss/static/js/732.4cd591dc.chunk.js",
+    "static/js/453.8144dec3.chunk.js": "/prtsc-ss/static/js/453.8144dec3.chunk.js",
+    "index.html": "/prtsc-ss/index.html",
+    "main.e6c13ad2.css.map": "/prtsc-ss/static/css/main.e6c13ad2.css.map",
+    "main.547ccdb5.js.map": "/prtsc-ss/static/js/main.547ccdb5.js.map",
+    "239.aa8ac803.chunk.js.map": "/prtsc-ss/static/js/239.aa8ac803.chunk.js.map",
+    "213.093f9e74.chunk.js.map": "/prtsc-ss/static/js/213.093f9e74.chunk.js.map",
+    "732.4cd591dc.chunk.js.map": "/prtsc-ss/static/js/732.4cd591dc.chunk.js.map",
+    "453.8144dec3.chunk.js.map": "/prtsc-ss/static/js/453.8144dec3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.547ccdb5.js"
+  ]
+}
